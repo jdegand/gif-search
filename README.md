@@ -1,7 +1,7 @@
 <h1 align="center">Gif Search</h1>
 
 <div align="center">
-   Tutorial from  <a href="https://makeschool.org/mediabook/oa/tutorials/makereddit/00-get-started/" target="_blank">makeschool.org</a>.
+   Tutorial from  <a href="https://makeschool.org/mediabook/oa/tutorials/gif-search-app-ynu/your-node-environment/" target="_blank">makeschool.org</a>.
 </div>
 
 ## Table of Contents
