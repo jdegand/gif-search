@@ -45,5 +45,5 @@ Simple search to an API and displaying the results.
 - [Github](https://securitylab.github.com/advisories/GHSL-2021-020-pillarjs-hbs/) - security advisory hbs
 - [Stack Overflow](https://stackoverflow.com/questions/30051236/argument-passed-in-must-be-a-string-of-24-hex-characters-i-think-it-is) - warning hbs
 - [NPM](https://www.npmjs.com/package/express-handlebars) - express handlebars
-- [Stack Overflow](https://stackoverflow.com/questions/69959820/typeerror-exphbs-is-not-a-function)
+- [Stack Overflow](https://stackoverflow.com/questions/69959820/typeerror-exphbs-is-not-a-function) - exphbs is not a function error
 - [Stack Overflow](https://stackoverflow.com/questions/15463199/how-to-set-custom-favicon-in-express) - favicon in express 
